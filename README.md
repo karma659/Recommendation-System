@@ -4,6 +4,5 @@
 # Bag of Words
 ![Screenshot (63)](https://github.com/karma659/Recommendation-System/blob/main/BAg.PNG)
 
-
 # TF-IDF
 ![Screenshot (63)](https://github.com/karma659/Recommendation-System/blob/main/Tfidf.PNG)
