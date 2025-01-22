@@ -6,3 +6,6 @@
 
 # TF-IDF
 ![Screenshot (63)](https://github.com/karma659/Recommendation-System/blob/main/Tf-Idf.PNG)
+
+# Recommendation
+![Screenshot (63)](https://github.com/karma659/Recommendation-System/blob/main/Recom.PNG)
